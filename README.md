@@ -1,2 +1,2 @@
-# Projeto Site da PrograMaria
- Projeto criado no curso de programação da programaria 
+# **Projeto Site da PrograMaria**
+ Site desenvolvido durante a minha trajetoria como programadora no curso da PrograMaria (Turma 10)
